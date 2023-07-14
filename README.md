@@ -1,2 +1,10 @@
-# CSC104myFirstPageAssignments
-Past due
+body{
+    background-color: navy;
+}
+
+h1{
+    color:gold;
+    margin-left:20px;
+}
+
+
